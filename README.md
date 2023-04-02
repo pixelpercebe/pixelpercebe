@@ -34,7 +34,7 @@ I am a passionate student of Computer science from Spain 🇪🇸
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=pixelpercebe&show_icons=true&theme=buefy&hide_border=true&line_height=27">
+  <img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=pixelpercebe&show_icons=true&layout=compact&theme=buefy&hide_border=true&line_height=27">
   <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pixelpercebe&hide=css,html&layout=compact&theme=buefy&hide_border=true">
 </p>
 
