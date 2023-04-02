@@ -4,6 +4,7 @@ I am a passionate student of Computer science from Spain 🇪🇸
 **About me:**
 
 - 👨🏼‍🎓 currently studying in the UPV/EHU.
+- 👾 I am learning video game development in a self-taught way.
 
 **Social:**
 
@@ -27,7 +28,14 @@ I am a passionate student of Computer science from Spain 🇪🇸
 [![MySQL](https://img.shields.io/badge/MySQL-red?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 
-**Stats:**
+<details open>
+ <summary><b>My Github Stats</b>: </summary>
 
-| <a href="https://github.com/pixelpercebe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pixelpercebe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Percebe's github stats" /></a> | <a href="https://github.com/pixelpercebe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelpercebe&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=pixelpercebe&show_icons=true&theme=buefy&hide_border=true&line_height=27">
+  <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pixelpercebe&hide=css,html&layout=compact&theme=buefy&hide_border=true">
+</p>
+
+</details>
