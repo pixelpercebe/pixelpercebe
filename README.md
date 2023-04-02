@@ -16,10 +16,14 @@ I am a passionate student of Computer science from Spain 🇪🇸
 
 **Tecnologies:**
 
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=jameson&logoColor=white&labelColor=101010)]() [![C](https://img.shields.io/badge/C-007396?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]() [![C#](https://img.shields.io/badge/C_sharp-007396?style=for-the-badge&logo=Csharp&logoColor=white&labelColor=101010)]()
+
+[![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=jameson&logoColor=white&labelColor=101010)]() 
+[![C#](https://img.shields.io/badge/C_sharp-darkgreen?style=for-the-badge&logo=Csharp&logoColor=white&labelColor=101010)]() 
+[![C](https://img.shields.io/badge/C-purple?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]() 
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() 
 </br>
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-red?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 
 **Stats:**
