@@ -8,7 +8,7 @@ I am a passionate student of Computer science from Spain 🇪🇸
 
 **Social:**
 
-[![Link](https://img.shields.io/badge/Link_Site-Not_yet_available-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Link](https://img.shields.io/badge/my_website-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Calvo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ivan-calvo-bolado/)
 
