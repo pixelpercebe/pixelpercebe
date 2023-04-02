@@ -32,10 +32,10 @@ I am a passionate student of Computer science from Spain 🇪🇸
  <summary><b>My Github Stats</b>: </summary>
 
 <br>
+ 
+**Stats:**
 
-<p align = "center">
-  <img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=pixelpercebe&show_icons=true&layout=compact&theme=buefy&hide_border=true&line_height=27">
-  <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pixelpercebe&hide=css,html&layout=compact&theme=buefy&hide_border=true">
-</p>
+| <a href="https://github.com/pixelpercebe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pixelpercebe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Percebe's github stats" /></a> | <a href="https://github.com/pixelpercebe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelpercebe&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 </details>
