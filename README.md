@@ -35,7 +35,6 @@ I am a passionate student of Computer science from Spain 🇪🇸
  
 **Stats:**
 
-| <a href="https://github.com/pixelpercebe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pixelpercebe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Percebe's github stats" /></a> | <a href="https://github.com/pixelpercebe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelpercebe&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/pixelpercebe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelpercebe&layout=compact&theme=buefy&hide_border=true" /></a>
 
 </details>
