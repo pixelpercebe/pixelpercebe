@@ -26,8 +26,11 @@ I am a passionate student of Computer science from Spain 🇪🇸
 </br>
 
 [![MySQL](https://img.shields.io/badge/MySQL-red?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
 </br>
 
+[![Linux](https://img.shields.io/badge/Linux-brown?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
+[![Windows](https://img.shields.io/badge/Windows-727dff?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
 <details open>
  <summary><b>My Github Stats</b>: </summary>
 
