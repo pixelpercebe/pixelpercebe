@@ -1,5 +1,5 @@
 
-I am a passionate student of Computer science from Spain 🇪🇸
+I am a passionate student of computer engineering from Spain 🇪🇸
 
 **About me:**
 
