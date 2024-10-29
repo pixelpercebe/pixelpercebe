@@ -38,6 +38,4 @@ I am a passionate student of computer engineering from Spain 🇪🇸
  
 **Stats:**
 
-<a href="https://github.com/pixelpercebe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelpercebe&layout=compact&theme=buefy&hide_border=true" /></a>
-
 </details>
