@@ -21,8 +21,7 @@ I am a passionate student of computer engineering from Spain 🇪🇸
 [![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=jameson&logoColor=white&labelColor=101010)]() 
 [![C#](https://img.shields.io/badge/C_sharp-darkgreen?style=for-the-badge&logo=Csharp&logoColor=white&labelColor=101010)]() 
 [![C](https://img.shields.io/badge/C-purple?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]() 
-[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() 
-[![ADA](https://img.shields.io/badge/Ada-c85bb7?style=for-the-badge&logo=academia&logoColor=white&labelColor=101010)]() 
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()  
 </br>
 
 [![MySQL](https://img.shields.io/badge/MySQL-red?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
