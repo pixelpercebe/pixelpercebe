@@ -3,7 +3,7 @@ I am a passionate computer engineering student from Spain 🇪🇸
 **About me:**
 
 - 👨🏼‍🎓 Currently studying in the UPV/EHU.
-- 👾 Self-taught game developer. At the moment, crafting my first Action RPG video game from scratch.
+- 👾 Self-taught game developer. At the moment, crafting my first video game from scratch.
 
 --- 
 
